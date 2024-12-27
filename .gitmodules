@@ -1,3 +1,7 @@
 [submodule "program-think-mirrors"]
 	path = program-think-mirrors
 	url = https://github.com/program-think-mirrors/books/
+[submodule "politics"]
+	path = politics
+	url = https://github.com/dhay3/Books
+  branch= politics
