@@ -1,4 +1,0 @@
-[submodule "program-think-mirrors@politics"]
-    path = program-think-mirrors
-    url = https://github.com/program-think-mirrors/books.git
-    branch = politics
