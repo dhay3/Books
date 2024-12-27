@@ -1,0 +1,3 @@
+[submodule "program-think-mirrors"]
+	path = program-think-mirrors
+	url = https://github.com/program-think-mirrors/books/
